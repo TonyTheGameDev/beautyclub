@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+    background-image: url("images/wallpaper.jpg");
+    background-color: white;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;}
+*{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.gallery{
+  
+    width: 500px;
+    border: 5px solid white;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+
+a{
+    color: white;
+    font-size: 30px;
+}
+pre{      
+     color: white;
+        font-size: 30px;   
+}
+.header
+{
+    font-size: 90px;
+}
+
+table{
+    font-size: 30px;
+    color: white;
+    border: 5px solid rgb(255, 255, 255);
+    
+    width: 1000px;
+}
